@@ -1,0 +1,58 @@
+html {
+    background-color: rgb(22, 22, 22);
+}
+
+body {
+    font-family: verdana;
+    background-color: black;
+    width: 1280px;
+    height: 1938px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    margin-left: 490px;
+}
+
+video {
+    display: block;
+    margin: 20px auto;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.camp {
+    display: block;
+    margin: 20px auto;
+}
+
+.icon {
+    display: block;
+    margin: 15px auto;
+}
+
+.foot {
+    text-align: right;
+    margin-right: 10px;
+}
